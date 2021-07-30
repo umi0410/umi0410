@@ -21,7 +21,7 @@ icon 참고: https://simpleicons.org/?q=go
 
 ### 개발이 재미있는 백엔드 개발자
 
-<img src="https://img.shields.io/badge/Blog-F68315?style=flat&logo=homeadvisor&logoColor=white" href="https://umi0410.github.io"/>  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>  <img src="https://img.shields.io/badge/dev.umijs@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/https://umi0410.github.io-F68315?style=flat&logo=homeadvisor&logoColor=white" href="https://umi0410.github.io"/>  <img src="https://img.shields.io/badge/dev.umijs@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
 
 **백엔드 개발**과 **클라우드 인프라 관리**를 하고 있습니다. 
 
