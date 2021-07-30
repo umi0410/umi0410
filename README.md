@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **umi0410/umi0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +21,7 @@ icon 참고: https://simpleicons.org/?q=go
 
 <img src="https://img.shields.io/badge/https://umi0410.github.io-F68315?style=flat&logo=homeadvisor&logoColor=white" href="https://umi0410.github.io"/>  <img src="https://img.shields.io/badge/dev.umijs@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
 
-**백엔드 개발**과 **클라우드 인프라 관리**를 하고 있습니다. 
+> **백엔드 개발**과 **클라우드 인프라 관리**를 하고 있습니다. 
 
 ❤️ Go언어
 
