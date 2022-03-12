@@ -22,8 +22,8 @@ icon 참고: https://simpleicons.org/?q=go
 <img src="https://img.shields.io/badge/https://umi0410.github.io-F68315?style=flat&logo=homeadvisor&logoColor=white" href="https://umi0410.github.io"/>  <img src="https://img.shields.io/badge/dev.umijs@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
 
 > **백엔드 개발**과 **클라우드 인프라 관리**를 하고 있습니다. 
-> (전) 당근마켓 플랫폼 팀 서버 엔지니어 인턴
-> (전) 메가존 클라우드 데브옵스 엔지니어 인턴
+> * (전) 당근마켓 플랫폼 팀 서버 엔지니어 인턴
+> * (전) 메가존 클라우드 데브옵스 엔지니어 인턴
 
 ❤️ Go언어
 
