@@ -17,25 +17,24 @@ shields.io 참고: https://shields.io/
 icon 참고: https://simpleicons.org/?q=go
  -->
 
-### 개발이 재미있는 백엔드 개발자
+### 깊이 파고드는 것을 좋아하는 데브옵스 엔지니어입니다 😃
 
-<img src="https://img.shields.io/badge/https://umi0410.github.io-F68315?style=flat&logo=homeadvisor&logoColor=white" href="https://umi0410.github.io"/>  <img src="https://img.shields.io/badge/dev.umijs@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
-
-> **백엔드 개발**과 **클라우드 인프라 관리**를 하고 있습니다. 
+> **클라우드 인프라 관리** 및 데브옵스 구현을 하고 있습니다. 
+> 
+> 요즘은 `istio`와 `ArgoCD`, `kubernetes`에 관심이 갑니다.
+> * (현) 데브시스터즈 인프라 셀 데브옵스 엔지니어 
 > * (전) 당근마켓 플랫폼 팀 서버 엔지니어 인턴
 > * (전) 메가존 클라우드 데브옵스 엔지니어 인턴
 
-❤️ Go언어, Java, Spring Boot, JPA
-
-❤️ 깔끔한 개발을 위한 테스트 코드와 컨테이너 환경들
-
-❤️ 마이크로서비스 아키텍쳐(MSA), 메시지 큐, CI/CD
-
 ❤️ 퍼블릭 클라우드(AWS, GCP)
 
-❤️ 생각이 깃든 개발
+❤️ 인프라 오픈소스 (istio, ArgoCD, Kubernetes, Kafka, ...)
+
+❤️ Go, Spring Boot, JPA
 
 ❤️ 자유롭고 창의적인 커뮤니케이션
+
+❤️ 마이크로서비스 아키텍쳐(MSA), 메시지 큐, CI/CD
 
 ### 좋아하는 기술
 
