@@ -28,13 +28,11 @@ icon 참고: https://simpleicons.org/?q=go
 
 ❤️ 퍼블릭 클라우드(AWS, GCP)
 
-❤️ 인프라 오픈소스 (istio, ArgoCD, Kubernetes, Kafka, ...)
+❤️ 클라우드 네이티브한 도구(Istio, ArgoCD, Kubernetes)
+
+❤️ 마이크로서비스 아키텍쳐
 
 ❤️ Go, Spring Boot, JPA
-
-❤️ 자유롭고 창의적인 커뮤니케이션
-
-❤️ 마이크로서비스 아키텍쳐(MSA), 메시지 큐, CI/CD
 
 ### 좋아하는 기술
 
